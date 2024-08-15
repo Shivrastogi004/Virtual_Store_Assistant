@@ -14,7 +14,6 @@ Virtual Store Assistant is a web-based application leveraging Augmented Reality 
 - [🔧 Usage](#-usage)
 - [🤝 Contributing](#-contributing)
 - [📜 License](#-license)
-- [🙏 Acknowledgements](#-acknowledgements)
 
 ## 📖 Introduction
 
