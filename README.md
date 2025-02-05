@@ -3,7 +3,7 @@ A Virtual Store Assistant using AR for personalized product recommendations and 
 
 # 🛍️ Virtual Store Assistant
 
-Virtual Store Assistant is a web-based application leveraging Augmented Reality (AR) to offer personalized product recommendations and help customers locate products within a store. Developed for the Walmart Hackathon under the theme "Future of Retail."
+Virtual Store Assistant is a web-based application leveraging Augmented Reality (AR) to offer personalized product recommendations and help customers locate products within the store. Developed for the Walmart Hackathon under the theme "Future of Retail."
 
 ## 📋 Table of Contents
 
